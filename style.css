@@ -1,0 +1,43 @@
+
+
+#navbarserachbutton{
+    color:green;
+    border-color:green ;
+}
+
+
+
+#navbarserachbutton:hover{
+    background-color: green;
+    color:white;
+}
+
+
+#viewproduct1{
+    background-color:yellow ;
+    color:black;
+    border-color:white;
+}
+
+
+
+#viewproduct2{
+    background-color:yellow ;
+    color:black;
+    border-color:white;
+}
+
+
+#viewproduct3{
+    background-color:yellow ;
+    color:black;
+    border-color:white;
+}
+
+
+
+#viewproduct4{
+    background-color:yellow ;
+    color:black;
+    border-color:white;
+}
